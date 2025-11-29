@@ -28,11 +28,6 @@ Fitness Factory is a frontend-only gym website that provides users with an easy 
 
 ---
 
-## 📷 Screenshots  
-(Add your website screenshots here)
-
----
-
 ## 🚀 How to Use  
 1. Clone the repository  
    ```bash
